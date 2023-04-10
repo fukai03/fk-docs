@@ -1,13 +1,11 @@
 ---
 title: A static site based on dumi
 hero:
-  title: Site
-  description: A static site based on dumi
+  title: K
+  description: Frontend learnig site
   actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
+    - text: docs
+      link: /react/hooks
 features:
   - title: Hello
     emoji: 💎
@@ -19,5 +17,3 @@ features:
     emoji: 🚀
     description: Put ! description here
 ---
-
-fk-docx
