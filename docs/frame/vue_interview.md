@@ -1,10 +1,11 @@
 ---
 title: vue面试
 nav:
-  title: vue
-  path: /vue
+  title: 框架
+  path: /frame
 group:
-  path: /interview
+  path: /vue_interview
+toc: content
 ---
 
 ### 1. v-if 和 v-for 的优先级
