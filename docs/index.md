@@ -5,7 +5,7 @@ hero:
   description: Frontend learnig site
   actions:
     - text: docs
-      link: /react/hooks
+      link: /frame/react
 features:
   - title: Hello
     emoji: 💎
