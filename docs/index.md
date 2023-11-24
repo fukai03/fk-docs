@@ -1,5 +1,5 @@
 ---
-title: A static site based on dumi
+title: K's Personal Docs Site
 hero:
   title: K
   description: Frontend learnig site

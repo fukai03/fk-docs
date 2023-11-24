@@ -1,11 +1,7 @@
 ---
-title: React核心
-nav:
-  title: 框架
-  path: /frame
-group:
-  path: /react
-toc: content
+nav: 框架
+group: React
+order: 1
 ---
 
 # React
